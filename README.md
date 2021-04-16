@@ -12,4 +12,4 @@ Information Retrieval Assignment 2
 ## Assumptions
 - **Input Query is case insensitive.**
 
-### More Information provided in `Assignment Report`
+### More Information provided in (Assignment Report)[Assignment Report.pdf]
